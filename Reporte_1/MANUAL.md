@@ -86,6 +86,12 @@ tipo: Unidad superMulti DVD +- R/RW con soporte para doble capa.
 - Guantes
 - Set de destornilladores
 - Destornilladores magneticos
+- Pasta térmica
+- brocha
+
+![MATERIALES](./Imagenes/materiales.png)
+![MATERIALES](./Imagenes/materiales2.png)
+
 
 ## Procedimiento empleado para la limpieza
 
@@ -95,9 +101,9 @@ Luego de haber realizado la limpieza y agregar la nueva pasta térmica, se obser
 Se recomienda al técnico o al encargado de la limpieza del equipo, tener el manual de mantenimiento del equipo correcto a dar mantenimiento para proceder a realizar los procedimientos correctos para desarmar la computadora en el orden correcto y así evitar posibles errores o manejo incorrecto de las piezas.
 ## Solución de errores
 Cuando se procedió a ensamblar la computadora se cometió el error de no conectar un puerto USB 2.0 y la conectividad de las bocinas, para ello se procedió a desarmar la computadora y conectar el puerto y las bocinas en las terminales correctas.
-![puertos](./Imagnes/puertosEdit.png)
+![puertos](./Imagenes/puertosEdit.png)
 ## Referencias
-
+[HP MANUAL](https://h10032.www1.hp.com/ctg/Manual/c02657339.pdf?utm_source=chatgpt.com)
 
  
 

@@ -95,7 +95,7 @@ tipo: Unidad superMulti DVD +- R/RW con soporte para doble capa.
 
 ## Procedimiento empleado para la limpieza
 - Objetivo: Realizar una limpieza interna y externa de la computadora HP Pavilion dv6 para mejorar su rendimiento, disipación de calor y prolongar su vida útil.
-- [VIDEO](https://creativeaml.com/)
+- [VIDEO](https://youtu.be/uMUQARuAtgs)
 1. Preparación
 	1. Apague la computadora y desconéctela de la corriente eléctrica.
 	2. Retire la batería para evitar descargas eléctricas.

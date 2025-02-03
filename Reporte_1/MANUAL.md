@@ -127,7 +127,7 @@ tipo: Unidad superMulti DVD +- R/RW con soporte para doble capa.
 	3. Encienda la computadora y verifique que los ventiladores funcionen correctamente y que la temperatura del procesador sea estable.
 	4. Realice pruebas de rendimiento para asegurar que todo funcione de manera óptima.
 
-
+![IMAGEN](./Imagenes/03.PNG)
 
 ## Resultados
 Luego de haber realizado la limpieza y agregar la nueva pasta térmica, se observó una disminución en el calentamiento y menor ruido del ventilador.
